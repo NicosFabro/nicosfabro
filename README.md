@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there, I'm Nicos! 👋
 
-<!--
-**NicosFabro/nicosfabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nicos' github stats](https://github-readme-stats.vercel.app/api?username=nicosfabro&count_private=true&show_icons=true&theme=nord)
 
-Here are some ideas to get you started:
+### About me
+- 💻 I’m currently studying Software Engineering.
+- 🌱 I’m currently learning Kotlin, Flutter and MVVM.
+- 📌 I'm currently living in Barcelona, Spain.
+- 🏃🏽‍♂️ I like to exercise and play different sports.
+- 🎸 I play the electric guitar in a small band of friends.
+- 📚 When I commute I like to read fantasy books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+![java](https://img.shields.io/badge/-java-red)
+![python](https://img.shields.io/badge/-python-green)
+![c](https://img.shields.io/badge/-c-grey)
+![swift](https://img.shields.io/badge/-swift-important)
+![javascript](https://img.shields.io/badge/-javascript-yellow)
+![sql](https://img.shields.io/badge/-sql-9cf)
+![github](https://img.shields.io/badge/-github-black)
+![aws](https://img.shields.io/badge/-aws-yellow)
+![docker](https://img.shields.io/badge/-docker-blue)
+
+### Idioms
+![spanish](https://img.shields.io/badge/-spanish-red)
+![catalan](https://img.shields.io/badge/-catalan-yellow)
+![english](https://img.shields.io/badge/-english-blue)
+
+### Get in touch
+- [💼 LinkedIn](https://www.linkedin.com/in/nicos-fabro/)
+- 📩 nicosfabroc@gmail.com
+
+> A sound soul, dwells within a sound mind, and a sound body.
