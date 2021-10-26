@@ -3,8 +3,8 @@
 ![Nicos' github stats](https://github-readme-stats.vercel.app/api?username=nicosfabro&count_private=true&show_icons=true&theme=nord)
 
 ### About me
-- 💻 I’m currently studying **Software Engineering**.
-- 🌱 I’m currently learning **Flutter** and MVVM.
+- 💻 I love developing apps with **Flutter**.
+- 🌱 I’m currently learning how to make tests (unit, widget and integration tests).
 - 📌 I'm currently living in Barcelona, Spain.
 - 🏃🏽‍♂️ I like to exercise and play different sports.
 - 🎸 I play the electric guitar in a small band of friends.
